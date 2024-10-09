@@ -1,0 +1,21 @@
+header {
+    background: blue;
+    color: white;
+    text-align: center;
+}
+.container {
+    background: grey;
+    color: red;
+}
+.highlight {
+    color: green;
+}
+.main-content {
+    background:yellow;
+}
+.text-center {
+    text-align:center;
+}
+.text-underline {
+    text-decoration-line:underline;
+}
