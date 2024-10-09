@@ -19,3 +19,24 @@ header {
 .text-underline {
     text-decoration-line:underline;
 }
+.google-link {
+    text-decoration-line:none;
+}
+.bold-text {
+    font-weight: bold;
+}
+#intro {
+    font: weight 300px;
+}
+*{
+    font-family: arial, sans-serif;
+}
+.custom-font {
+    font-family: 'Times New Roman', serif;
+}
+.header-uppercase {
+    text-transform: uppercase;
+}
+.capitalize-text {
+    text-transform: capitalize;
+}
